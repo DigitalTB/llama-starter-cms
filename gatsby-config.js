@@ -93,4 +93,6 @@ module.exports = {
       },
     },
   ],
+
+  pathPrefix: "/llama-starter-cms",
 }

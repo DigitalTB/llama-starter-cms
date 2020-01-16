@@ -3,9 +3,9 @@
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown, made editable with TinaCMS",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "",
   "bugs": {
-    "url": "https://github.com/tinacms/gatsby-starter-tinacms/issues"
+    "url": ""
   },
   "dependencies": {
     "gatsby": "^2.15.36",
@@ -50,7 +50,7 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/tinacms/gatsby-starter-tinacms#readme",
+  "homepage": "https://digitaltb.github.io/llama-starter-cms/",
   "keywords": [
     "gatsby"
   ],

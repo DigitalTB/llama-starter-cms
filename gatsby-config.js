@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Primordial Soup`,
     author: `DigitalTB`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Sharing ideas as digiatal oraganisms coming togther in a blog format`,
     siteUrl: `https://digitaltb.github.io/llama-starter-cms/`,
     social: {
       twitter: `digitaltb`,
